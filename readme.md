@@ -18,7 +18,7 @@ To set up the project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mohammd-1819/AsanKharid.git
+   git clone https://github.com/mohammd-1819/warehousing_api.git
 
 
 2. **Create and activate a virtual environment:**
